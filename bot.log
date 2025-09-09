@@ -1,0 +1,4 @@
+2025-09-09 11:36:04,184 | ERROR | Error sending batch 1: 401 Client Error: Unauthorized for url: https://testnet.binancefuture.com/fapi/v1/batchOrders
+2025-09-09 11:36:06,243 | ERROR | Error sending batch 2: 401 Client Error: Unauthorized for url: https://testnet.binancefuture.com/fapi/v1/batchOrders
+2025-09-09 11:52:10,997 | ERROR | Error sending batch 1: 401 Client Error: Unauthorized for url: https://testnet.binancefuture.com/fapi/v1/batchOrders
+2025-09-09 11:52:11,371 | ERROR | Error sending batch 2: 401 Client Error: Unauthorized for url: https://testnet.binancefuture.com/fapi/v1/batchOrders
